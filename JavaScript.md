@@ -1,4 +1,4 @@
-`JavaScript`
+JavaScript
 --
 * `ECMAScript` – стандарт, а `JavaScript` – найпопулярніша реалізація цього стандарту
 * `ES` — це просто скорочення для `ECMAScript`
@@ -21,7 +21,7 @@
 * `ES9` / `ES2018` — у червні 2016 року
   * `async` /` await` 
 
-`V8 Engine`
+V8 Engine
 --
 * Це високопродуктивний рушій `JavaScript` і `WebAssembly` від `Google` з відкритим вихідним кодом, написаним на `C++`
 * Використовується в `Node.js`
